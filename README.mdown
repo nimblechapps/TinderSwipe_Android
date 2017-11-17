@@ -1,0 +1,40 @@
+# Creating Tinder Like Swipe Slider For Android
+
+#### Introduction
+
+CardView is another major element introduced in Material Design. Here is how to develop CardView and architecture to simulate the Tinder Swipe Cards without using Any third party library. If you need a step by step explanation of the topic, you can check our article here: [How to Create Tinder Like Swipe Slider For Android](https://insights.nimblechapps.com/app-development/android-app-development/creating-tinder-like-swipe-slider-for-android)
+
+#### Objectives
+
+We would be creating the swipe Card view as used in the Tinder. i.e. Swipe right is considered liked and swipe left is considered unlike.
+
+#### Steps to follow
+
+ 1. Create a new project in Android Studio.
+ 2. Open build.gradle and add Card View.
+ 3. Create a model class denoting the UserDataModel properties.
+ 4. Create an XML layout.
+ 5. Open the layout main activity file.
+ 6. Open the res/drawable and create new drawable.
+ 7. Add image in res/drawable folder.
+ 8. Finally open MainActivity.java and add OnTouchListener() method
+
+#### Final output
+<br/>
+
+[![N|Solid](https://insights.nimblechapps.com/wp-content/uploads/2017/11/Tinder-Like-Swipe-Slider-For-Android.png)](https://insights.nimblechapps.com/app-development/android-app-development/creating-tinder-like-swipe-slider-for-android)
+
+This tutorial has been presented by Nimblechapps - The coolest [Android App Development Company](https://www.nimblechapps.com/android-app-development-company). Checkout our [Android app development portfolio](https://www.nimblechapps.com/portfolio/mobile-app-development).
+
+     Provide us your valuable comment in our blog comment section.
+
+##### Read other interesting iOS blogs
+
+ 1. [How to Integrate Dropbox with your Android APP and Perform CRUD Action](https://insights.nimblechapps.com/app-development/android-app-development/how-to-integrate-dropbox-with-your-android-app-and-perform-crud-action)
+ 2. [How To Use the Font Awesome Icon Pack in an Android](https://insights.nimblechapps.com/app-development/android-app-development/how-to-use-the-font-awesome-icon-pack-in-an-android)
+ 3. [Using MongoDB For Storing and Retrieving Data For Android](https://insights.nimblechapps.com/app-development/android-app-development/using-mongodb-storing-retrieving-data-android)
+ 4. [Integrate Firebase Push Notifications in Android Application](https://insights.nimblechapps.com/app-development/android-app-development/integrate-firebase-push-notifications-android-application)
+
+## License
+
+Copyright (c) 2017 Nimblechapps
